@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">kosankuu</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_detail">Detail</string>
+    <string name="title_activity_splash">Kosanku</string>
+    <string name="title_activity_index">Daftar Rumah Kost</string>
+    <string name="title_activity_detail1">Detail</string>
+    <string name="title_activity_detail2">Detail</string>
+    <string name="title_activity_detail3">Detail</string>
+    <string name="title_activity_detail4">Detail</string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="title_activity_pengertian">Pengertian</string>
+    <string name="title_activity_tentang">Tentang Kosanku</string>
+
+</resources>
