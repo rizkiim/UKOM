@@ -8,7 +8,7 @@ by Rizki Insani Maulana
 <http://sambiltiduran.blogspot.com/>
 
 Sinopsis Aplikasi
-~~~~~~~~~~~~~~~~~
+-----------------
 Aplikasi ini adalah aplikasi yang dikhususkan untuk membantu orang pendatang yang ingin mencari rumah kost
 namun belum mengetahui alamat lengkap dan letak rumah-rumah kost tersebut.
 Di aplikasi ini juga sudah disajikan alamat lengkap, foto rumah, harga, dan mayoritas penghuni rumah kost tersebut.
@@ -22,14 +22,14 @@ mulai dari latar belakang sampai kelebihan dan manfaat dari aplikasi kosanku.
 
 
 Manfaat Aplikasi
-~~~~~~~~~~~~~~~~
+----------------
 * Memudahkan seseorang dalam mencari rumah kost
 * Memudahkan orang yang mempunyai rumah kost untuk memasarkan rumah kost miliknya
 * Membuat mencari rumah kost menjadi menyenangkan karena tidak perlu bolak-balik mencari alamat.
 
 
 Pengguna Aplikasi
-~~~~~~~~~~~~~~~~~
+-----------------
 Penggunanya yaitu semua orang yang ingin mencari dan menyewa rumah kost,
 tetapi lebih diperuntukan untuk mahasiswa/i dan karyawan/i yang belum mempunyai tempat tinggal. 
  
